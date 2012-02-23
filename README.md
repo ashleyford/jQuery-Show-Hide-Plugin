@@ -6,7 +6,7 @@ For a demo check out http://papermashup.com/jquery-show-hide-plugin/
 Usage and options
 -----------------
 
-Here we setup the options for the plugin. you can set the speed of the toggle, if you include the jQuery UI plugin you can specify an easing effect. Also there’s an option to change the text for the button. 1 is change 0 is dont change. and the final options are the show and hide text.
+Here we setup the options for the plugin. you can set the speed of the toggle, if you include the jQuery UI plugin you can specify an easing effect. Also there's an option to change the text for the button. 1 is change 0 is dont change. and the final options are the show and hide text.
 
 
         speed: 1000,  // speed you want the toggle to happen
